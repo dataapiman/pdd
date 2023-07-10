@@ -2399,4 +2399,4 @@
 有需要联系wx:tanchichong1
 ````
 
-[淘宝](https://github.com/ddddshop/tb/edit/main/README.md)
+[淘宝](https://github.com/ddddshop/tb)
